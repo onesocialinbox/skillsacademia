@@ -1197,6 +1197,12 @@ p {
     border-radius: 25px 25px 25px 0;
 }
 
+#mobile {
+    font-size: 18px;
+    padding: 15px 15px;
+    border-radius: 25px 25px 25px 0;
+}
+
 #message {
     border-radius: 25px 25px 25px 0;
 }

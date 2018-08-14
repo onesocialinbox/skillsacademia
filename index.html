@@ -22,7 +22,7 @@
     <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.2.4/email.min.js"></script>
     <script type="text/javascript">
         (function(){
-           emailjs.init("user_m1ANxt370Ke9286xtHEVf");
+           emailjs.init("user_aFbPIMahIe2HyjBNTYUvO");
         })();
     </script>
     <script type="text/javascript">
@@ -31,9 +31,9 @@
             form.addEventListener('submit', function(event) {
                 event.preventDefault();
                 
-                emailjs.sendForm('mailjet', 'template_alNMpQjf', this);
+                emailjs.sendForm('mailjet', 'template_Uim8P2xx', this);
                 form.reset();
-                $('#success_message').text( "<b>Some</b> new text." );   
+                $('#success_message').text( "Email sent successfully. " );   
                 $('#success_message').delay(500).fadeIn('normal', function() {
                     	$(this).delay(2500).fadeOut();                
                 });
@@ -797,6 +797,11 @@
                                             <input type="email" class="form-control" name="from_email" id="email" placeholder="Your E-mail" required>
                                         </div>
                                     </div>
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <input type="tel" class="form-control" name="from_number" id="mobile" placeholder="Your Mobile Number" required pattern="[7-9]{1}[0-9]{2}[0-9]{3}[0-9]{4}">
+                                        </div>
+                                    </div>                                    
                                     <!-- Single Input Area Start -->
                                     <div class="col-12">
                                         <div class="form-group">
