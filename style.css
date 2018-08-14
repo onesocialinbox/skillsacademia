@@ -247,7 +247,7 @@ p {
 .line-shape {
     width: 80px;
     height: 2px;
-    background-color: #cce6ff;
+    background-color: #05ad9f;
     margin-top: 15px;
 }
 
@@ -285,7 +285,7 @@ p {
     -webkit-animation: 2000ms linear 0s normal none infinite running colorlib-load;
     animation: 2000ms linear 0s normal none infinite running colorlib-load;
     background: transparent none repeat scroll 0 0;
-    border-color: #dddddd #dddddd #cce6ff;
+    border-color: #dddddd #dddddd #05ad9f;
     border-radius: 50%;
     border-style: solid;
     border-width: 2px;
@@ -367,7 +367,7 @@ p {
 
 
 .menu_area nav ul li > a:hover {
-    color: #cce6ff;
+    color: #05ad9f;
 }
 
 .sing-up-button {
@@ -387,7 +387,7 @@ p {
 }
 
 .sing-up-button > a:hover {
-    background: #cce6ff;
+    background: #05ad9f;
     color: #fff;
     border-color: transparent;
     -webkit-transition-duration: 500ms;
@@ -474,22 +474,22 @@ p {
 }
 
 .form-control::-webkit-input-placeholder {
-    color: #cec1f4;
+    color: #05ad9f;
     opacity: 1;
 }
 
 .form-control:-ms-input-placeholder {
-    color: #cec1f4;
+    color: #05ad9f;
     opacity: 1;
 }
 
 .form-control::-ms-input-placeholder {
-    color: #cec1f4;
+    color: #05ad9f;
     opacity: 1;
 }
 
 .form-control::placeholder {
-    color: #cec1f4;
+    color: #05ad9f;
     opacity: 1;
 }
 
@@ -500,7 +500,7 @@ p {
 }
 
 .get-start-area .submit {
-    background-color: #cce6ff;
+    background-color: #05ad9f;
     color: #fff;
     font-weight: 500;
     display: inline-block;
@@ -547,7 +547,7 @@ p {
 
 .single-icon > i {
     font-size: 36px;
-    color: #cce6ff;
+    color: #05ad9f;
 }
 
 .single-special > h4 {
@@ -622,7 +622,7 @@ p {
 .app-download-btn.active a,
 .app-download-btn a:hover {
     border-color: transparent;
-    background-color: #cce6ff;
+    background-color: #05ad9f;
 }
 
 .app-download-btn a i {
@@ -671,7 +671,7 @@ p {
 }
 
 .single-feature > i {
-    color: #cce6ff;
+    color: #05ad9f;
     font-size: 30px;
     display: inline-block;
     float: left;
@@ -719,7 +719,7 @@ p {
 .video-area .video-play-btn a {
     width: 80px;
     height: 80px;
-    background-color: #cce6ff;
+    background-color: #05ad9f;
     color: #fff;
     text-align: center;
     display: block;
@@ -829,7 +829,7 @@ p {
 }
 
 .app-screenshots-area .owl-dot.active {
-    background-color: #cce6ff;
+    background-color: #05ad9f;
     border: transparent;
 }
 
@@ -866,7 +866,7 @@ p {
 
 
 .single-price-plan .package-plan .ca-price h4 {
-    color: #cce6ff;
+    color: #05ad9f;
     font-size: 48px;
     position: relative;
     z-index: 1;
@@ -876,7 +876,7 @@ p {
 
 .single-price-plan .package-plan .ca-price span {
     font-size: 18px;
-    color: #cce6ff;
+    color: #05ad9f;
 }
 
 .single-price-plan .plan-button > a {
@@ -972,8 +972,8 @@ p {
 }
 
 .clients-feedback-area .slick-dots li.slick-active button {
-    background-color: #cce6ff;
-    border-color: #cce6ff;
+    background-color: #05ad9f;
+    border-color: #05ad9f;
 }
 
 .clients-feedback-area .slick-slide.client-thumbnail {
@@ -1059,7 +1059,7 @@ p {
     display: inline-block;
     text-align: center;
     line-height: 45px;
-    color: #cce6ff;
+    color: #05ad9f;
     font-weight: 500;
     border-radius: 23px 23px 23px 0;
 }
@@ -1249,7 +1249,7 @@ p {
 }
 
 .footer-social-icon > a > i:hover {
-    background: #cce6ff;
+    background: #05ad9f;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
@@ -1276,7 +1276,7 @@ p {
 }
 
 .footer-social-icon > a .active {
-    background: #cce6ff;
+    background: #05ad9f;
 }
 
 .footer-menu ul li:last-child a {
