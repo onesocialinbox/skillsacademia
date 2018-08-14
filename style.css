@@ -62,8 +62,8 @@ h6 {
 }
 
 .section_padding_100 {
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
 
 .section_padding_100_50 {
@@ -102,8 +102,8 @@ h6 {
 }
 
 .section_padding_70 {
-    padding-top: 70px;
-    padding-bottom: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .section_padding_0_50 {
@@ -199,7 +199,7 @@ ol {
     font-size: 24px;
     right: 30px;
     width: 50px;
-    background-color: #5b32b4;
+    background-color: #059689;
     color: #fff;
     text-align: center;
     height: 50px;
@@ -247,7 +247,7 @@ p {
 .line-shape {
     width: 80px;
     height: 2px;
-    background-color: #5b32b4;
+    background-color: #cce6ff;
     margin-top: 15px;
 }
 
@@ -285,7 +285,7 @@ p {
     -webkit-animation: 2000ms linear 0s normal none infinite running colorlib-load;
     animation: 2000ms linear 0s normal none infinite running colorlib-load;
     background: transparent none repeat scroll 0 0;
-    border-color: #dddddd #dddddd #5b32b4;
+    border-color: #dddddd #dddddd #cce6ff;
     border-radius: 50%;
     border-style: solid;
     border-width: 2px;
@@ -367,7 +367,7 @@ p {
 
 
 .menu_area nav ul li > a:hover {
-    color: #5b32b4;
+    color: #cce6ff;
 }
 
 .sing-up-button {
@@ -387,7 +387,7 @@ p {
 }
 
 .sing-up-button > a:hover {
-    background: #5b32b4;
+    background: #cce6ff;
     color: #fff;
     border-color: transparent;
     -webkit-transition-duration: 500ms;
@@ -500,7 +500,7 @@ p {
 }
 
 .get-start-area .submit {
-    background-color: #5b32b4;
+    background-color: #cce6ff;
     color: #fff;
     font-weight: 500;
     display: inline-block;
@@ -547,7 +547,7 @@ p {
 
 .single-icon > i {
     font-size: 36px;
-    color: #5b32b4;
+    color: #cce6ff;
 }
 
 .single-special > h4 {
@@ -622,7 +622,7 @@ p {
 .app-download-btn.active a,
 .app-download-btn a:hover {
     border-color: transparent;
-    background-color: #5b32b4;
+    background-color: #cce6ff;
 }
 
 .app-download-btn a i {
@@ -671,7 +671,7 @@ p {
 }
 
 .single-feature > i {
-    color: #5b32b4;
+    color: #cce6ff;
     font-size: 30px;
     display: inline-block;
     float: left;
@@ -719,7 +719,7 @@ p {
 .video-area .video-play-btn a {
     width: 80px;
     height: 80px;
-    background-color: #5b32b4;
+    background-color: #cce6ff;
     color: #fff;
     text-align: center;
     display: block;
@@ -829,7 +829,7 @@ p {
 }
 
 .app-screenshots-area .owl-dot.active {
-    background-color: #5b32b4;
+    background-color: #cce6ff;
     border: transparent;
 }
 
@@ -866,7 +866,7 @@ p {
 
 
 .single-price-plan .package-plan .ca-price h4 {
-    color: #5b32b4;
+    color: #cce6ff;
     font-size: 48px;
     position: relative;
     z-index: 1;
@@ -876,7 +876,7 @@ p {
 
 .single-price-plan .package-plan .ca-price span {
     font-size: 18px;
-    color: #5b32b4;
+    color: #cce6ff;
 }
 
 .single-price-plan .plan-button > a {
@@ -972,8 +972,8 @@ p {
 }
 
 .clients-feedback-area .slick-dots li.slick-active button {
-    background-color: #5b32b4;
-    border-color: #5b32b4;
+    background-color: #cce6ff;
+    border-color: #cce6ff;
 }
 
 .clients-feedback-area .slick-slide.client-thumbnail {
@@ -1059,7 +1059,7 @@ p {
     display: inline-block;
     text-align: center;
     line-height: 45px;
-    color: #5b32b4;
+    color: #cce6ff;
     font-weight: 500;
     border-radius: 23px 23px 23px 0;
 }
@@ -1202,7 +1202,7 @@ p {
 }
 
 .btn.submit-btn {
-    background: #5b32b4;
+    background: #059689;
     height: 48px;
     min-width: 185px;
     color: #ffffff;
@@ -1211,7 +1211,7 @@ p {
 }
 
 .btn.submit-btn:hover {
-    background: #059689;
+    background: #03635b;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
@@ -1249,7 +1249,7 @@ p {
 }
 
 .footer-social-icon > a > i:hover {
-    background: #5b32b4;
+    background: #cce6ff;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
@@ -1276,7 +1276,7 @@ p {
 }
 
 .footer-social-icon > a .active {
-    background: #5b32b4;
+    background: #cce6ff;
 }
 
 .footer-menu ul li:last-child a {
